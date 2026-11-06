@@ -18,12 +18,12 @@
 
 ### About me
 
-- Flutter developer with **3+ years** of production experience.
+- Flutter developer with **4+ years** of production experience.
 - Focused on maintainable architecture, responsive UI, real-time experiences,
   and dependable networking.
 - Experienced in shipping iOS and Android releases, including CI/CD,
   store distribution, crash monitoring, and performance tuning.
-- Interested in CRM, AI-assisted products, messaging, and mobile platform
+- Experienced in CRM, OMS, Booking, AI-assisted products, messaging, and mobile platform
   reliability.
 
 ### What I work with
@@ -48,9 +48,9 @@
 ### Selected work
 
 | Product    | Highlights                                                                                                                                                                                                                     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Preny**  | A CRM and AI-assistant product built with a feature-first Flutter architecture. Worked on real-time updates, FCM notification flows, resilient API handling, AI bot management, purchases, maps, and authenticated deep links. |
-| **Askany** | A booking and consultation application with real-time chat, push notifications, AI assistance, authentication, and in-app purchases. Reached **100K+ downloads**.                                                              |     |
+| **Askany** | A booking and consultation application with real-time chat, push notifications, AI assistance, authentication, and in-app purchases. Reached **100K+ downloads**.                                                              |
 
 ### Engineering principles
 
@@ -60,11 +60,6 @@ Reliable async    ->  Clear loading, retry, and error states
 Real-time first   ->  Fresh data without unnecessary polling
 Production-ready  ->  Monitoring, release discipline, and maintainable code
 ```
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chopper985&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=1F2937&icon_color=6C2BD9&title_color=6C2BD9" alt="Thai Tuan's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopper985&layout=compact&hide_border=true&theme=transparent&text_color=1F2937&title_color=6C2BD9" alt="Top languages" />
-</p>
 
 <p align="center">
   <i>Open to collaborating on thoughtful Flutter, real-time, and AI-powered products.</i>
