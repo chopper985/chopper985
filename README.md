@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/Naver%20Map-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Map" />
+  <img src="https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white" alt="Square" />
   <img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-007ACC?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc and Cubit" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" alt="Pusher" />
@@ -44,11 +47,10 @@
 
 ### Selected work
 
-| Product | Highlights |
-| --- | --- |
-| **Preny** | A CRM and AI-assistant product built with a feature-first Flutter architecture. Worked on real-time updates, FCM notification flows, resilient API handling, AI bot management, purchases, maps, and authenticated deep links. |
-| **Askany** | A booking and consultation application with real-time chat, push notifications, AI assistance, authentication, and in-app purchases. Reached **100K+ downloads**. |
-| **Waterbus** | A responsive Flutter application delivered across mobile, web, and desktop with real-time communication. |
+| Product    | Highlights                                                                                                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| **Preny**  | A CRM and AI-assistant product built with a feature-first Flutter architecture. Worked on real-time updates, FCM notification flows, resilient API handling, AI bot management, purchases, maps, and authenticated deep links. |
+| **Askany** | A booking and consultation application with real-time chat, push notifications, AI assistance, authentication, and in-app purchases. Reached **100K+ downloads**.                                                              |     |
 
 ### Engineering principles
 
@@ -58,12 +60,6 @@ Reliable async    ->  Clear loading, retry, and error states
 Real-time first   ->  Fresh data without unnecessary polling
 Production-ready  ->  Monitoring, release discipline, and maintainable code
 ```
-
-### Open-source demos
-
-- [OBD2 Demo](https://github.com/chopper985/obd2_demo)
-- [HeyGen Integration](https://github.com/chopper985/heygen_integration)
-- [Kim Hue Thao Bank](https://github.com/chopper985/kim_hue_thao_bank)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=chopper985&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=1F2937&icon_color=6C2BD9&title_color=6C2BD9" alt="Thai Tuan's GitHub statistics" />
